@@ -17,9 +17,10 @@ img{
 }
 
 .ytv {
-    width: 640px;
-    height: 360px;
-    size: relative
+    width: 320px;
+    height: 180px;
+}
+  
 }
 p{
     font-family: Arial, Helvetica, sans-serif;
