@@ -13,7 +13,7 @@ h3{
 
 img{
     border-radius: 10px;
-    width
+    max-width: 100%;
 }
 
 p{
