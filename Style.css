@@ -16,6 +16,11 @@ img{
     max-width: 100%;
 }
 
+.ytv {
+    width: 640px;
+    height: 360px;
+    size: relative
+}
 p{
     font-family: Arial, Helvetica, sans-serif;
     letter-spacing: 2px;
