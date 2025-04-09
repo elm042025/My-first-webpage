@@ -1,5 +1,6 @@
 body {
     background-color: lightslategrey;
+
 }
 
 h1{
@@ -21,7 +22,7 @@ img{
     height: 180px;
 }
   
-}
+
 p{
     font-family: Arial, Helvetica, sans-serif;
     letter-spacing: 2px;
